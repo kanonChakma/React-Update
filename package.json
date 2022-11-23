@@ -1,20 +1,5 @@
 {
-  "name": "react-update",
-  "version": "1.0.0",
-  "description": "",
-  "main": "App.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/kanonChakma/notesApp.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/kanonChakma/notesApp/issues"
-  },
-  "homepage": "https://github.com/kanonChakma/notesApp#readme"
+  "dependencies": {
+    "date-fns": "^2.29.3"
+  }
 }
